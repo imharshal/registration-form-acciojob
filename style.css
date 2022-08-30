@@ -1,0 +1,17 @@
+.header {
+    text-align: center;
+    text-decoration: underline;
+}
+
+.registration-form {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+body {
+    background-color: bisque;
+}
+
+.col-md-6 {
+    margin-top: 20px
+}
