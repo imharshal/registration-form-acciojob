@@ -150,7 +150,7 @@
     validateForm();
   });
 
-  // Event listener to detect submit event
+  // Event listener to detect submit event and display successful message
   form.addEventListener("submit", (e) => {
     e.preventDefault();
     if (validateForm()) {
